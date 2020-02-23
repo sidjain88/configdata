@@ -1,3 +1,7 @@
+lucky-word: myword1
+other-word: myotherword
+
+
 eureka
   client
     serviceUrl
