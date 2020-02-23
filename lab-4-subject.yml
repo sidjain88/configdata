@@ -1,5 +1,5 @@
 words: I,You,He,She,They
 
-eureka
-  client
+eureka:
+  client:
     serviceUrl: http://localhost:8010/eureka/
